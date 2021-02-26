@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pigsustain/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/pigsustain/static/js/main.31b0577b.chunk.js",
+    "main.js.map": "/pigsustain/static/js/main.31b0577b.chunk.js.map",
+    "runtime-main.js": "/pigsustain/static/js/runtime-main.2fbb8c97.js",
+    "runtime-main.js.map": "/pigsustain/static/js/runtime-main.2fbb8c97.js.map",
+    "static/css/2.98d10db0.chunk.css": "/pigsustain/static/css/2.98d10db0.chunk.css",
+    "static/js/2.5249695d.chunk.js": "/pigsustain/static/js/2.5249695d.chunk.js",
+    "static/js/2.5249695d.chunk.js.map": "/pigsustain/static/js/2.5249695d.chunk.js.map",
+    "static/js/3.252fd7c5.chunk.js": "/pigsustain/static/js/3.252fd7c5.chunk.js",
+    "static/js/3.252fd7c5.chunk.js.map": "/pigsustain/static/js/3.252fd7c5.chunk.js.map",
+    "index.html": "/pigsustain/index.html",
+    "precache-manifest.647e3def20fee97a2649910979d7b27f.js": "/pigsustain/precache-manifest.647e3def20fee97a2649910979d7b27f.js",
+    "service-worker.js": "/pigsustain/service-worker.js",
+    "static/css/2.98d10db0.chunk.css.map": "/pigsustain/static/css/2.98d10db0.chunk.css.map",
+    "static/css/main.435d5fe5.chunk.css.map": "/pigsustain/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.5249695d.chunk.js.LICENSE.txt": "/pigsustain/static/js/2.5249695d.chunk.js.LICENSE.txt",
+    "static/media/location-icon-atlas.png": "/pigsustain/static/media/location-icon-atlas.37932833.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fbb8c97.js",
+    "static/css/2.98d10db0.chunk.css",
+    "static/js/2.5249695d.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.31b0577b.chunk.js"
+  ]
+}
